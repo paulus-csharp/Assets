@@ -1,0 +1,14 @@
+/home/paulus/RiderProjects/Assets/Assets/bin/Debug/net8.0/Assets
+/home/paulus/RiderProjects/Assets/Assets/bin/Debug/net8.0/Assets.deps.json
+/home/paulus/RiderProjects/Assets/Assets/bin/Debug/net8.0/Assets.runtimeconfig.json
+/home/paulus/RiderProjects/Assets/Assets/bin/Debug/net8.0/Assets.dll
+/home/paulus/RiderProjects/Assets/Assets/bin/Debug/net8.0/Assets.pdb
+/home/paulus/RiderProjects/Assets/Assets/obj/Debug/net8.0/Assets.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulus/RiderProjects/Assets/Assets/obj/Debug/net8.0/Assets.AssemblyInfoInputs.cache
+/home/paulus/RiderProjects/Assets/Assets/obj/Debug/net8.0/Assets.AssemblyInfo.cs
+/home/paulus/RiderProjects/Assets/Assets/obj/Debug/net8.0/Assets.csproj.CoreCompileInputs.cache
+/home/paulus/RiderProjects/Assets/Assets/obj/Debug/net8.0/Assets.dll
+/home/paulus/RiderProjects/Assets/Assets/obj/Debug/net8.0/refint/Assets.dll
+/home/paulus/RiderProjects/Assets/Assets/obj/Debug/net8.0/Assets.pdb
+/home/paulus/RiderProjects/Assets/Assets/obj/Debug/net8.0/Assets.genruntimeconfig.cache
+/home/paulus/RiderProjects/Assets/Assets/obj/Debug/net8.0/ref/Assets.dll
