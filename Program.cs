@@ -3,3 +3,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Kolejmy commit");
 Console.WriteLine("Kolejmy termit");
+Console.WriteLine("Kolejmy termin");
